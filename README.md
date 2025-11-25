@@ -1,7 +1,5 @@
 ## Hi there .. Sunfea is here👋
 
-🔭 I’m currently working on my next project <br>👯 I’m looking to collaborate on my new project <br>🤝 I’m looking for help <br>🌱 I’m currently learning - DevOps <br>💬 Ask me about<br>⚡ Fun fact - I'm from Paramedical background 😅 
-
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Instagram.com/ss_suraj.27) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linked.com/in/sunfea) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/x.com/sunfea_27) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:20suraj60@gmail.com) 
